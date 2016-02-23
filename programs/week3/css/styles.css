@@ -1,0 +1,20 @@
+body {
+	background: #D2EAFF;
+	font-family: "didot";
+	font-color: #112B48;
+	font-size: 20px;
+	text-align: left;
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 36px;
+	color: red;
+	text-transform: uppercase;
+
+}
+
+hr {
+	border-color: black;
+}
+
