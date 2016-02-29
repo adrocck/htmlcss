@@ -1,0 +1,59 @@
+body {
+
+	background-color: #c0c5ce;
+}
+
+h1 	{
+
+	position: center;
+	font-size: 64px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 700;
+	font-color: #343d46;
+}
+
+h2 {
+
+	font-size: 48px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 400;
+	font-color: #343d46;
+}
+
+ul {
+
+	list-style-type: none;
+}
+
+figure {
+
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 300;
+	font-color: #343d46;
+}
+
+#one {
+
+	font-size: 32px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 300;
+	font-color: #343d46;
+}
+
+#two {
+
+	font-size: 24px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 300;
+	font-color: #343d46;
+}
+
+#three {
+	font-size: 32px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 300;
+	font-color: #343d46;
+}
+
+
+
