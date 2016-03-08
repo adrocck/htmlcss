@@ -1,0 +1,113 @@
+h1 {
+
+  text-align: center;
+  font-family: arial;
+  font-size: 60px;
+  width: 30%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+#content {
+
+width: 80%;
+
+}
+
+#left{
+
+width: 600px;
+border: 20px;
+float: left;
+margin: 20px;
+position: relative;
+left: 160px;
+}
+
+#right {
+
+width: 600px;
+border: 20px;
+float: right;
+position: relative;
+left: -400px;
+margin: 20px;
+
+}
+
+.box, .circle{
+
+border:10px solid #000;
+width: 600px;
+height: 600px;
+
+}
+
+.box {
+
+width: 600px;
+
+}
+
+.circle {
+
+position: absolute;
+top: 300px; left: 300px;
+border-radius:50%;
+font-size:50px;
+color:#fff;
+background:#000;
+
+}
+
+#blue {
+
+background: blue;
+float: right;
+position: relative;
+top: -640px;
+margin-right: 20px;
+
+}
+
+#green {
+
+background: green;
+float: right;
+position: relative;
+top: 680px;
+margin-bottom: 20px;
+margin-right: 20px;
+
+}
+
+#red {
+
+background: red;
+float: right;
+position: relative;
+left: 680px; top: -1280px;
+margin-top: 20px;
+margin-right: 20px;
+}
+
+#yellow {
+
+background: #ffff00 ;
+float: right;
+position: relative;
+top: -1240px; left: 680px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 20px;
+
+}
+
+#teal {
+
+background: lightblue;
+float: left;
+position: relative;
+margin-right: 20px;
+
+}
